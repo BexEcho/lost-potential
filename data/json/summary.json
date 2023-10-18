@@ -1,0 +1,90 @@
+[
+  {
+    "Row": 1,
+    "": "Rounded Estimate Current Total Spend on Primary Education",
+    "Low Income Countries": 17000000000,
+    "Lower Middle Income Countries": 196000000000,
+    "Upper Middle Income Countries": 478000000000,
+    "High income countries": 578000000000
+  },
+  {
+    "Row": 2,
+    "": "Consistent Spending Bound over 10 years of Spending",
+    "Low Income Countries": 35000000000,
+    "Lower Middle Income Countries": 35000000000,
+    "Upper Middle Income Countries": 35000000000,
+    "High income countries": 35000000000
+  },
+  {
+    "Row": 3,
+    "": "Max / Min Percentage Change in Spending Allowed",
+    "Low Income Countries": 0.2058823529,
+    "Lower Middle Income Countries": 0.0178571429,
+    "Upper Middle Income Countries": 0.0073221757,
+    "High income countries": 0.0060553633
+  },
+  {
+    "Row": 4,
+    "": "Additional Financing",
+    "Low Income Countries": 1000000000,
+    "Lower Middle Income Countries": 1000000000,
+    "Upper Middle Income Countries": 1000000000,
+    "High income countries": 1000000000
+  },
+  {
+    "Row": 5,
+    "": "Change in Children on the Pathway to Opportunity Secured",
+    "Low Income Countries": 8645533.14121037,
+    "Lower Middle Income Countries": 6423982.86937902,
+    "Upper Middle Income Countries": 1827596.71032592,
+    "High income countries": 265463.233342182
+  },
+  {
+    "Row": 6,
+    "": "Increase in GDP",
+    "Low Income Countries": 4817080518.26216,
+    "Lower Middle Income Countries": 2852238845.67345,
+    "Upper Middle Income Countries": 2450558925.85863,
+    "High income countries": 2192277387.3562
+  },
+  {
+    "Row": 7,
+    "": "Number Lifted From Extreme Poverty",
+    "Low Income Countries": 233043.236130705,
+    "Lower Middle Income Countries": 193971.944770401,
+    "Upper Middle Income Countries": 131064.828177272,
+    "High income countries": 50866.2381283408
+  },
+  {
+    "Row": 8,
+    "": "Public Revenue Generated",
+    "Low Income Countries": 581421618.554243,
+    "Lower Middle Income Countries": 411007617.661544,
+    "Upper Middle Income Countries": 378611354.045159,
+    "High income countries": 406009772.138369
+  },
+  {
+    "Row": 9,
+    "": "Lives Saved",
+    "Low Income Countries": 174582.259211122,
+    "Lower Middle Income Countries": 45892.4759344693,
+    "Upper Middle Income Countries": 9419.4093977036,
+    "High income countries": 1978.0543262705
+  },
+  {
+    "Row": 10,
+    "": "Girls Prevented From Early Marriage",
+    "Low Income Countries": 158517.071138007,
+    "Lower Middle Income Countries": 78516.4889402377,
+    "Upper Middle Income Countries": 20773.5082488601,
+    "High income countries": 4431.9185027507
+  },
+  {
+    "Row": 11,
+    "": "Future Children With Reduced Stunting",
+    "Low Income Countries": 146360.371293231,
+    "Lower Middle Income Countries": 35338.5828505677,
+    "Upper Middle Income Countries": 4976.2651061861,
+    "High income countries": 1152.5937805175
+  }
+]

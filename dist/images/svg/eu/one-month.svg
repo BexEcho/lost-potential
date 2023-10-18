@@ -1,0 +1,423 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 386 484">
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(5 21)">
+      <circle fill="#FBA55F" transform="rotate(180 103 135)" cx="103" cy="135" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 143 116)" cx="143" cy="116" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 20 133)" cx="20" cy="133" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 181 89)" cx="181" cy="89" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 127 114)" cx="127" cy="114" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 50 90)" cx="50" cy="90" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 161 76)" cx="161" cy="76" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 155 106)" cx="155" cy="106" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 166 119)" cx="166" cy="119" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 80 80)" cx="80" cy="80" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 770)" cx="322" cy="385" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 402)" cx="108" cy="201" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 406)" cx="139" cy="203" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 818)" cx="339" cy="409" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 608)" cx="305" cy="304" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 692)" cx="303" cy="346" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 610)" cx="351" cy="305" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 476)" cx="143" cy="238" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 618)" cx="330" cy="309" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 492)" cx="332" cy="246" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 506)" cx="364" cy="253" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 692)" cx="313" cy="346" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 450)" cx="102" cy="225" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 506)" cx="120" cy="253" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 604)" cx="362" cy="302" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 546)" cx="365" cy="273" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 594)" cx="370" cy="297" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 342)" cx="103" cy="171" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 486)" cx="367" cy="243" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 570)" cx="367" cy="285" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 738)" cx="305" cy="369" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 482)" cx="354" cy="241" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 578)" cx="358" cy="289" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 718)" cx="334" cy="359" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 636)" cx="335" cy="318" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 618)" cx="372" cy="309" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 550)" cx="352" cy="275" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 622)" cx="343" cy="311" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 806)" cx="347" cy="403" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 790)" cx="354" cy="395" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 688)" cx="345" cy="344" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 802)" cx="363" cy="401" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 714)" cx="347" cy="357" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 698)" cx="355" cy="349" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 848)" cx="311" cy="424" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 888)" cx="285" cy="444" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 850)" cx="322" cy="425" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 432)" cx="113" cy="216" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 586)" cx="297" cy="293" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 444)" cx="38" cy="222" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 376)" cx="195" cy="188" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 406)" cx="81" cy="203" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 478)" cx="23" cy="239" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 480)" cx="342" cy="240" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 346)" cx="83" cy="173" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 478)" cx="170" cy="239" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 632)" cx="258" cy="316" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 828)" cx="320" cy="414" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 884)" cx="303" cy="442" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 734)" cx="326" cy="367" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 834)" cx="330" cy="417" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 874)" cx="320" cy="437" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 750)" cx="316" cy="375" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 764)" cx="307" cy="382" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 780)" cx="332" cy="390" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 898)" cx="317" cy="449" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 842)" cx="298" cy="421" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 834)" cx="267" cy="417" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 862)" cx="303" cy="431" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 408)" cx="121" cy="204" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 50 396)" cx="50" cy="396" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 59 304)" cx="59" cy="304" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 49 308)" cx="49" cy="308" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 62 254)" cx="62" cy="254" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 148 288)" cx="148" cy="288" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 55 277)" cx="55" cy="277" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 67 294)" cx="67" cy="294" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 23 314)" cx="23" cy="314" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 96 206)" cx="96" cy="206" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 90 217)" cx="90" cy="217" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 77 256)" cx="77" cy="256" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 141 178)" cx="141" cy="178" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 69 268)" cx="69" cy="268" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 90 231)" cx="90" cy="231" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 37 257)" cx="37" cy="257" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 77 326)" cx="77" cy="326" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 117 309)" cx="117" cy="309" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 90 343)" cx="90" cy="343" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 277 307)" cx="277" cy="307" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 347 291)" cx="347" cy="291" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 53 266)" cx="53" cy="266" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 76 218)" cx="76" cy="218" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 71 243)" cx="71" cy="243" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 74 230)" cx="74" cy="230" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 114 184)" cx="114" cy="184" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 116 172)" cx="116" cy="172" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 67 198)" cx="67" cy="198" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 27 276)" cx="27" cy="276" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 49 234)" cx="49" cy="234" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 151 139)" cx="151" cy="139" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 156 126)" cx="156" cy="126" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 91 90)" cx="91" cy="90" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 118 85)" cx="118" cy="85" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 175 52)" cx="175" cy="52" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 169 106)" cx="169" cy="106" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 124 126)" cx="124" cy="126" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 110 123)" cx="110" cy="123" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 10 171)" cx="10" cy="171" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 227 188)" cx="227" cy="188" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 142 127)" cx="142" cy="127" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 120 70)" cx="120" cy="70" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 179 156)" cx="179" cy="156" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 106 80)" cx="106" cy="80" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 162 47)" cx="162" cy="47" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 162 90)" cx="162" cy="90" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 201 178)" cx="201" cy="178" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 100 112)" cx="100" cy="112" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 216 178)" cx="216" cy="178" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 59 166)" cx="59" cy="166" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 171 135)" cx="171" cy="135" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 221 203)" cx="221" cy="203" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 66 154)" cx="66" cy="154" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 73 164)" cx="73" cy="164" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 79 140)" cx="79" cy="140" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 176 75)" cx="176" cy="75" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 164 149)" cx="164" cy="149" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 118 141)" cx="118" cy="141" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 149 73)" cx="149" cy="73" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 166 63)" cx="166" cy="63" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 167 15)" cx="167" cy="15" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 178 37)" cx="178" cy="37" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 130 75)" cx="130" cy="75" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 25 176)" cx="25" cy="176" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 132 137)" cx="132" cy="137" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 107 148)" cx="107" cy="148" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 60 225)" cx="60" cy="225" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 13 269)" cx="13" cy="269" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 24 263)" cx="24" cy="263" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 16 281)" cx="16" cy="281" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 5 313)" cx="5" cy="313" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 41 267)" cx="41" cy="267" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 83 283)" cx="83" cy="283" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 58 242)" cx="58" cy="242" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 29 248)" cx="29" cy="248" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 68 282)" cx="68" cy="282" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 81 270)" cx="81" cy="270" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 92 275)" cx="92" cy="275" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 50 291)" cx="50" cy="291" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 48 252)" cx="48" cy="252" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 29 306)" cx="29" cy="306" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 40 283)" cx="40" cy="283" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 148 261)" cx="148" cy="261" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 104 286)" cx="104" cy="286" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 118 333)" cx="118" cy="333" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 272 340)" cx="272" cy="340" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 168 251)" cx="168" cy="251" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 78 341)" cx="78" cy="341" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 264 336)" cx="264" cy="336" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 264 325)" cx="264" cy="325" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 278 325)" cx="278" cy="325" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 313 315)" cx="313" cy="315" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 316 303)" cx="316" cy="303" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 320 293)" cx="320" cy="293" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 318 285)" cx="318" cy="285" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 19 294)" cx="19" cy="294" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 8 295)" cx="8" cy="295" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 205 196)" cx="205" cy="196" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 30 290)" cx="30" cy="290" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 94 193)" cx="94" cy="193" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 64 212)" cx="64" cy="212" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 94 334)" cx="94" cy="334" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 339 300)" cx="339" cy="300" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 102 357)" cx="102" cy="357" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 107 335)" cx="107" cy="335" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 84 319)" cx="84" cy="319" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 171 217)" cx="171" cy="217" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 215 190)" cx="215" cy="190" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 14 304)" cx="14" cy="304" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 336 270)" cx="336" cy="270" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 105 347)" cx="105" cy="347" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 67 355)" cx="67" cy="355" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 200 339)" cx="200" cy="339" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 77 378)" cx="77" cy="378" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 87 373)" cx="87" cy="373" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 207 348)" cx="207" cy="348" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 311 330)" cx="311" cy="330" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 129 167)" cx="129" cy="167" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 80 189)" cx="80" cy="189" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 51 325)" cx="51" cy="325" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 154 162)" cx="154" cy="162" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 140 163)" cx="140" cy="163" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 158 219)" cx="158" cy="219" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 323 322)" cx="323" cy="322" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 126 279)" cx="126" cy="279" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 115 282)" cx="115" cy="282" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 180 336)" cx="180" cy="336" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 128 216)" cx="128" cy="216" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 185 327)" cx="185" cy="327" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 207 209)" cx="207" cy="209" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 102 304)" cx="102" cy="304" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 150 210)" cx="150" cy="210" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 338 280)" cx="338" cy="280" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 127 180)" cx="127" cy="180" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 82 364)" cx="82" cy="364" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 106 191)" cx="106" cy="191" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 117 227)" cx="117" cy="227" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 92 383)" cx="92" cy="383" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 104 386)" cx="104" cy="386" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 111 378)" cx="111" cy="378" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 110 366)" cx="110" cy="366" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 119 356)" cx="119" cy="356" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 118 269)" cx="118" cy="269" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 96 323)" cx="96" cy="323" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 81 351)" cx="81" cy="351" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 129 260)" cx="129" cy="260" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 71 366)" cx="71" cy="366" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 138 310)" cx="138" cy="310" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 126 315)" cx="126" cy="315" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 158 233)" cx="158" cy="233" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 119 410)" cx="119" cy="410" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 116 320)" cx="116" cy="320" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 177 377)" cx="177" cy="377" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 298 315)" cx="298" cy="315" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 353 253)" cx="353" cy="253" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 209 333)" cx="209" cy="333" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 289 316)" cx="289" cy="316" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 52 348)" cx="52" cy="348" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 105 316)" cx="105" cy="316" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 288 305)" cx="288" cy="305" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 110 240)" cx="110" cy="240" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 346 264)" cx="346" cy="264" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 67 343)" cx="67" cy="343" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 218 353)" cx="218" cy="353" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 53 360)" cx="53" cy="360" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 127 363)" cx="127" cy="363" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 99 372)" cx="99" cy="372" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 199 389)" cx="199" cy="389" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 61 388)" cx="61" cy="388" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 138 271)" cx="138" cy="271" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 47 336)" cx="47" cy="336" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 52 407)" cx="52" cy="407" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 106 272)" cx="106" cy="272" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 84 245)" cx="84" cy="245" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 93 293)" cx="93" cy="293" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 113 297)" cx="113" cy="297" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 41 300)" cx="41" cy="300" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 40 313)" cx="40" cy="313" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 165 173)" cx="165" cy="173" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 83 300)" cx="83" cy="300" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 29 322)" cx="29" cy="322" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 90 308)" cx="90" cy="308" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 73 305)" cx="73" cy="305" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 97 245)" cx="97" cy="245" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 116 343)" cx="116" cy="343" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 136 285)" cx="136" cy="285" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 78 402)" cx="78" cy="402" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 90 356)" cx="90" cy="356" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 92 256)" cx="92" cy="256" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 105 260)" cx="105" cy="260" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 158 369)" cx="158" cy="369" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 78 411)" cx="78" cy="411" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 89 414)" cx="89" cy="414" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 55 373)" cx="55" cy="373" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 39 326)" cx="39" cy="326" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 62 333)" cx="62" cy="333" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 64 403)" cx="64" cy="403" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 178 189)" cx="178" cy="189" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 99 419)" cx="99" cy="419" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 107 408)" cx="107" cy="408" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 782)" cx="71" cy="391" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 718)" cx="154" cy="359" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 794)" cx="106" cy="397" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 486)" cx="127" cy="243" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 392)" cx="169" cy="196" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 772)" cx="190" cy="386" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 806)" cx="95" cy="403" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 804)" cx="126" cy="402" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 782)" cx="84" cy="391" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 730)" cx="170" cy="365" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 768)" cx="51" cy="384" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 444)" cx="143" cy="222" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 814)" cx="135" cy="407" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 360)" cx="93" cy="180" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 510)" cx="331" cy="255" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 388)" cx="131" cy="194" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 402)" cx="193" cy="201" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 300)" cx="134" cy="150" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 394)" cx="10" cy="197" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 692)" cx="259" cy="346" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 820)" cx="146" cy="410" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 688)" cx="190" cy="344" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 650)" cx="160" cy="325" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 692)" cx="282" cy="346" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 346)" cx="153" cy="173" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 506)" cx="342" cy="253" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 300)" cx="147" cy="150" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 630)" cx="69" cy="315" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 644)" cx="60" cy="322" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 526)" cx="360" cy="263" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 141 392)" cx="141" cy="392" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 153 25)" cx="153" cy="25" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 188 67)" cx="188" cy="67" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 114 108)" cx="114" cy="108" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 190 49)" cx="190" cy="49" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 190 31)" cx="190" cy="31" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 143 42)" cx="143" cy="42" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 138 103)" cx="138" cy="103" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 149 60)" cx="149" cy="60" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 165 32)" cx="165" cy="32" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 30 107)" cx="30" cy="107" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 180 18)" cx="180" cy="18" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 190 5)" cx="190" cy="5" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 43 102)" cx="43" cy="102" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 28 122)" cx="28" cy="122" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 66 90)" cx="66" cy="90" r="5"/>
+      <circle fill="#FBA55F" transform="rotate(180 133 57)" cx="133" cy="57" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 446)" cx="24" cy="223" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 424)" cx="11" cy="212" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 578)" cx="277" cy="289" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 478)" cx="8" cy="239" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 452)" cx="9" cy="226" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 338)" cx="178" cy="169" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 384)" cx="146" cy="192" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 552)" cx="283" cy="276" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 592)" cx="284" cy="296" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 728)" cx="315" cy="364" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 534)" cx="292" cy="267" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 426)" cx="28" cy="213" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 504)" cx="141" cy="252" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 506)" cx="13" cy="253" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 368)" cx="11" cy="184" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 580)" cx="243" cy="290" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 592)" cx="255" cy="296" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 480)" cx="38" cy="240" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 354)" cx="187" cy="177" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 322)" cx="167" cy="161" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 698)" cx="151" cy="349" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 790)" cx="323" cy="395" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 402)" cx="35" cy="201" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 460)" cx="132" cy="230" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 706)" cx="181" cy="353" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 624)" cx="269" cy="312" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 596)" cx="269" cy="298" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 426)" cx="46" cy="213" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 382)" cx="27" cy="191" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 638)" cx="191" cy="319" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 396)" cx="51" cy="198" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 320)" cx="108" cy="160" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 312)" cx="121" cy="156" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 668)" cx="166" cy="334" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 656)" cx="147" cy="328" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 672)" cx="156" cy="336" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 372)" cx="59" cy="186" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 380)" cx="41" cy="190" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 402)" cx="21" cy="201" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 650)" cx="173" cy="325" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 358)" cx="71" cy="179" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 632)" cx="181" cy="316" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 328)" cx="89" cy="164" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 404)" cx="180" cy="202" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 678)" cx="145" cy="339" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 518)" cx="160" cy="259" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 682)" cx="215" cy="341" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 736)" cx="220" cy="368" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 826)" cx="250" cy="413" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 366)" cx="152" cy="183" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 492)" cx="154" cy="246" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 696)" cx="324" cy="348" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 666)" cx="321" cy="333" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 716)" cx="288" cy="358" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 672)" cx="302" cy="336" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 714)" cx="305" cy="357" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 696)" cx="293" cy="348" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 704)" cx="269" cy="352" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 750)" cx="194" cy="375" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 672)" cx="287" cy="336" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 712)" cx="278" cy="356" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 652)" cx="299" cy="326" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 650)" cx="289" cy="325" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 692)" cx="167" cy="346" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 680)" cx="335" cy="340" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 612)" cx="257" cy="306" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 710)" cx="195" cy="355" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 660)" cx="333" cy="330" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 756)" cx="65" cy="378" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 864)" cx="255" cy="432" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 772)" cx="209" cy="386" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 720)" cx="210" cy="360" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 820)" cx="311" cy="410" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 868)" cx="279" cy="434" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 410)" cx="163" cy="205" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 852)" cx="275" cy="426" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 820)" cx="259" cy="410" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 874)" cx="265" cy="437" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 376)" cx="161" cy="188" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 872)" cx="292" cy="436" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 884)" cx="273" cy="442" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 842)" cx="254" cy="421" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 782)" cx="232" cy="391" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 858)" cx="245" cy="429" r="5"/>
+      <circle fill="#2E75FE" transform="matrix(1 0 0 -1 0 804)" cx="226" cy="402" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 207 397)" cx="207" cy="397" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 164 355)" cx="164" cy="355" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 184 366)" cx="184" cy="366" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 210 371)" cx="210" cy="371" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 153 402)" cx="153" cy="402" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 217 418)" cx="217" cy="418" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 198 366)" cx="198" cy="366" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 217 380)" cx="217" cy="380" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 156 413)" cx="156" cy="413" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 214 429)" cx="214" cy="429" r="5"/>
+      <circle fill="#2E75FE" transform="rotate(180 220 411)" cx="220" cy="411" r="5"/>
+    </g>
+    <g stroke="#D5E5FF" stroke-width="3">
+      <path d="M54.603 431.915l-3.109.418-1.654-1.455 1.654-6.031.209-4.78-2.275-5.822 1.033-7.272 1.863-6.03 2.07-1.037-.62-2.288-3.104-.628 3.312-1.455v-3.948l-2.488-8.523.83-2.083-1.863-1.251.83-1.864 1.45-7.9-1.45-2.079-5.593-14.135-6.63-1.251-5.592-1.042-4.97-6.026-5.801-7.905-1.45-2.073 1.032-2.288-1.241-2.083-3.11 1.25-1.032 4.995 2.274 4.775 3.73 4.575-.412 3.325-2.28-.414-4.142-3.947-5.795-4.367-4.554-1.874-2.692-.623L2 336.073l7.872-24.941.829-5.617v-6.026l-1.659-10.392-3.52-17.884-1.451-9.978.412-6.65 1.45-12.061 2.071-13.099-.83-8.104.21-7.9.208-14.968.209-11.015 1.653-10.397 2.071-7.272 2.28-4.78 2.692 1.246-1.033 3.325-.209 2.078.209 1.246-2.28 1.456V176l1.862 2.492 2.489 1.869 1.653 1.246 2.692 1.874s.83 1.036 1.45 1.246c.621.21 6.213 0 7.251 0 1.038 0 9.322 3.324 9.525 4.157.209.832 6.213 7.277 6.213 7.277s5.175 4.78 6.213 4.984c1.033.21 7.042-3.534 7.042-3.534l.83-5.612-.83-6.23s-5.383-3.948-5.592-4.571c-.208-.628 1.242-4.162 1.242-4.162l4.35-2.283 4.763-7.067 3.725-.414 4.762-.414 1.45-2.91-3.103-1.247-1.45-3.324v-2.492l3.103-3.325 3.934-3.12 6.213.414 4.141 2.497 3.11 4.78 3.103 4.361v3.325l-3.312 5.403-2.692 3.738-2.483 4.57.412 5.199 2.275.832 2.07-2.906.413-3.743L91.87 176l4.554-.624 5.18.833 1.654 1.869.209 4.157 1.241.418s1.242-3.952 1.45-4.575c.209-.623.209-2.079.209-2.702 0-.623-.412-5.821-.412-5.821l-6.213-1.87-1.863 2.08-2.07 1.455-1.038-2.288 2.279-3.948 2.483-5.198-1.241-4.361-2.275-1.247-1.45-5.198 1.867-2.283 1.45-3.947-1.038-2.911-1.653-3.534-.626-4.157 2.9-4.157 4.142-3.324 5.384-4.157 7.866-1.037 7.251-.21 3.104 2.08.209 3.533 2.691 1.246 4.972-3.947 5.383-7.482 4.763-1.455h6.421l3.73-1.246.83-3.33-8.493-2.701-7.455.21-5.175 3.533-3.108 3.325s-2.484.832-3.522.832c-1.037 0-6.212-.414-6.833 0-.62.414-9.526 2.083-9.526 2.083l-3.52 1.037s-3.313 1.246-3.522 1.87c-.208.627-2.9 1.455-3.52 1.455-.622 0-3.522-1.042-3.522-1.042l-4.763-2.91-3.73-.624-2.482 1.456-2.692 1.455s-4.142.419-4.971.623c-.83.21-5.18.21-5.18.21l-3.104 1.455-4.35 4.984-4.143 1.042H56.67l-4.559 1.869s-.83 2.706-.62 3.324c.208.623 2.279 3.534 2.9 3.534.62 0 4.141-.21 4.762 0 .621.21 3.934-2.492 3.934-2.492s3.52-3.115 3.933-3.743c.412-.623 2.07-1.87 2.07-1.87l4.351 1.66 1.863 2.702-.413 3.125-1.038 2.492-2.691 2.078h-1.436l-2.9-.209-.83 2.079.21 2.282 1.862 3.743.412 3.116s-1.45 3.324-1.659 3.952c-.208.623-2.07 3.115-2.07 3.115l-3.105 4.152-1.033.628-2.07 3.325-1.242 1.66-4.346.209s-3.73-3.12-4.35-3.325c-.621-.21-3.521-3.115-4.35-2.91-.825.209-3.517 1.245-3.517 1.245s-.62 1.247-.208 2.079c.412.832 1.653 1.66 2.691 1.874 1.033.204 2.483.623 2.483.623s2.275 2.283 2.484 3.115c.208.833 1.033 4.99 1.241 5.612.209.623-3.933 4.99-3.933 4.99l-2.692.418s-4.142.205-4.142-.418-1.45-5.403-1.45-5.403l-.209-4.576-.417-7.062 2.28-3.534s1.241-2.283 2.28-2.702c1.032-.413 2.895-1.66 3.52-1.455.621.21 4.555-.623 5.384-1.037.83-.414 4.559-4.157 4.559-4.157v-3.952c0-1.037-.62-6.654-.62-6.654l-1.45-3.325-1.655-1.25-2.28 1.036-1.032 2.288-2.9 4.57s-2.9 5.194-3.934 5.408c-1.033.205-4.345.205-4.554.833-.209.623-2.28 3.115-2.07 3.947.208.832-.21 3.534-.21 4.361 0 .833-.412 2.702-.208 3.33.209.623-1.867 4.157-1.867 4.157l-4.972 2.078-4.142-3.324-.829-6.031-4.763-4.157s-.829-4.775-.62-5.403c.208-.623 10.563-21.617 10.563-21.617l8.905-11.847 6.009-7.068 6.004-7.9 4.56.833h2.274l10.36 1.036 7.037-4.57 4.141-3.33 5.384-.21 7.663 2.912 6.213.413 10.355-2.492 8.08-3.534 10.767-9.564 10.36-14.759 7.866-14.763 8.91-12.675 3.73-6.863s2.075-4.775 3.52-5.194c1.45-.418 4.346-1.036 4.972-.832.62.21 5.592.414 6.833.414 1.242 0 7.872-.623 8.905-1.246 1.033-.628 9.53-6.24 9.53-6.24l6.417-2.911s6.838-6.859 7.459-6.859c.62 0 6.218-4.157 6.218-4.157l4.976-3.533 7.46-.419s.834 2.083.834 2.701c0 .623.824 3.534-.214 3.948-1.028.414-4.142 2.492-4.142 2.492l-4.345 2.91-4.152 2.907s-3.928 3.952-3.725 4.57c.214.628-2.28 3.534-2.28 3.534s-.203 3.12-.203 3.743c0 .623-2.697 8.11-2.697 8.11l1.455 5.402s2.28 3.534 2.484 4.367c.203.827 1.862 3.115 1.862 3.115l.63 3.12-1.037 7.068s-.626 6.025-.626 6.648c0 .628.626 9.775.626 9.775s1.038 3.533 1.241 4.78c.204 1.25-.834 9.56-.834 9.56l-3.938 4.575-5.379 7.272s-2.9 9.56-2.9 10.182c0 .623-2.488 6.654-2.488 6.654l-4.35 2.283-6.417-.832.824 2.701 2.9.623 2.484.833-2.483 7.272-.621 4.784s0 4.152.203 4.775c.209.628 1.654 6.445 1.654 6.445v7.068l2.483 3.947 1.033 4.152s-2.691 1.042-3.312 1.251c-.626.21-5.597-.623-5.597-.623s-2.483.414-2.9 1.042c-.413.623-.83 2.282-.83 2.282s1.862 1.042 2.692.833c.83-.21 3.104-1.66 3.73-1.66.62 0 4.97-.628 5.795-.419.83.21 2.275 1.456 2.275 1.456l.208 4.575.626 6.23v6.655l5.8 6.44 2.896.832 6.223-.21 7.866-.413s9.322-1.665 9.943-1.456c.62.21 5.383.414 5.587 1.246.214.833 5.394 4.785 5.597 5.408.214.623.834 4.78.834 4.78s1.446 5.403 1.65 6.235c.213.833-.204 4.984 0 5.612.213.623-.204 6.44-.204 6.44l-4.977 5.403s-3.307 3.33-3.51 4.157c-.214.837-2.29 4.157-2.29 4.157l-2.9 4.162s-1.038 3.738-1.038 4.57c0 .837-1.029 6.649-1.029 6.649l-4.141 1.256s-3.11-1.455-2.9-2.083c.208-.628-.622-3.12-.21-3.948.418-.837 2.906-2.293 2.906-3.33 0-1.036-2.488-3.738-2.488-3.738s-4.763.414-4.763 1.247c0 .827-1.664 3.528-1.664 3.528s-1.033 1.456-.824 2.502c.209 1.037-.209 2.493 0 3.11.209.629 0 3.33.209 4.162.208.833-1.043 3.325-1.654 3.54-.63.204-3.938-.215-3.938-.215s-1.038-3.115-.418-3.529c.621-.419 1.863-3.12 1.863-3.12v-1.874l-3.313-.832s-1.236-.205-2.488 0c-1.241.214-6.421 1.455-6.421 1.455l-.621-4.78 1.246-2.073s2.071-1.456 2.687-1.456c.626 0 2.9-1.455 3.526-2.083.621-.623.621-1.456 1.446-2.288.834-.832.417-3.743.417-3.743l-3.725-3.115-4.56 1.66s-1.658 2.287-2.065 3.12c-.417.832-4.152 6.235-4.152 6.235s-1.654 2.492-1.654 3.125c0 .618-4.142 3.738-4.142 3.738v4.785l1.654 5.194s1.033 3.533 1.242 4.156c.208.623 1.043 3.948 1.043 4.576v7.272s-1.247 5.199-1.247 6.24c0 1.037-2.07 5.822-2.274 6.44-.209.628-2.9 4.575-2.9 4.575s.829 3.33.62 4.162c-.209.833-1.033 2.084-1.654 2.084-.62 0-2.483-.215-2.483-.215l-2.483-4.78-5.796-1.25h-4.142l-3.109 1.67-7.037 2.282v2.91s5.384 1.037 6.208 1.456c.83.419 4.35.204 5.389.623 1.033.414 2.895 1.251 2.895 1.251l.208 1.87-1.862 4.156.209 2.906s-.417 3.957-.209 4.58c.209.623-1.033 2.906-1.033 2.906l-4.966 2.492-7.251-.204-2.692 1.665-7.25-.828-2.28-2.91-3.933-.634-6.005.838-3.104.21-1.862 1.245.62 1.251s3.105.414 3.73.205c.621-.205 3.934-.42 3.934-.42l2.692.215 2.284 2.906s2.483 2.074 2.692 2.707c.203.618 2.895 1.869 2.895 1.869s2.28-.21 2.896 0c.62.204 3.312 0 3.312 0l.83 2.492-2.692 5.198-3.934 1.456s-2.284 1.869-2.483 2.497c-.213.623-.412 2.696-.412 2.696l-1.033 1.46-.62 2.283s-4.555-.408-5.186-.204c-.62.204-4.554-1.246-4.554-1.246l-2.691-.832s-1.45 1.455-1.247 2.078c.209.618-.824 2.701-.824 2.701s2.895.42 4.142.623c1.241.21 4.554-.413 5.174 0 .621.42 1.033 2.702 1.242 3.54.209.822-1.242 4.36-1.242 4.36s-2.691 1.037-3.103 1.67c-.418.618-.621 2.278-.621 2.906 0 .623.208 2.288.208 2.906 0 .628-2.07 2.083-2.07 2.083s-1.034 1.042-.413 1.665c.621.618 2.905 1.037 2.905 1.037l1.654 1.874s1.028 3.115.83 3.947c-.209.828-1.863 3.33-1.45 3.948.417.628 4.345 2.288 4.345 2.288s2.28 0 2.483.837c.209.827-1.033 6.649-1.033 6.649l-2.483 4.994-4.768.2s-1.648-1.456-2.483-1.247c-.83.21-3.933 2.288-3.933 2.288l-3.313 3.534s-.62 2.288-.412 2.91c.204.624 2.275 2.702 2.275 2.702s2.895 3.125 2.895 4.162-3.933 3.324-3.933 3.324-2.692.21-3.318 1.037c-.62.833-.62 2.492-.62 2.492l1.45 1.67s4.97 0 5.592-.21c.62-.209 3.933-1.245 4.762-1.041.83.214 2.9 2.706 3.313 3.534.412.837 2.905 1.042 5.185 2.706 2.274 1.66 3.104 1.042 3.104 1.042s3.104 4.361 3.307 4.99c.209.622 4.763 2.491 4.763 2.491l.83-3.743s-.21-3.324-.83-3.12c-.62.21-2.692-.832-2.692-.832s-1.654-5.194-2.483-4.99c-.83.21-6.208-.204-6.208-.204l-1.241-3.743.412-3.743 3.724-1.66 8.701 3.324 3.73 4.99s4.137 3.33 4.763 3.534c.62.214 3.52 1.25 3.52 1.25s1.863 6.859 2.072 7.482c.208.623 2.9 4.361 2.9 4.99 0 .622-.62 3.737-1.241 4.779-.621 1.042-2.9 1.874-3.73 2.293-.83.413-5.384.618-5.384.618l-4.97-.833-5.384-4.575s-.83-1.456-2.697-1.456c-1.862 0-3.725-.204-3.725-.204l-1.658-.204s-1.033 1.041-2.484 1.246c-1.445.204-4.757-1.874-5.999-1.665-1.241.21-4.768 1.665-4.768 1.665l-3.103 3.947s-1.45 3.534-2.071 3.953c-.621.418-4.763 1.66-4.763 1.66s-1.862-.623-2.692-.623c-.83 0-4.142 2.083-4.142 2.083l-1.45 1.246h-3.104l-3.317-1.246-1.654-2.497-3.313-2.702-3.109-1.041-5.18-.833-6.212-.623-3.313-2.91s-2.692-1.456-3.73-1.252c-1.032.215-2.483-.204-3.52 0-1.034.215-2.484 0-2.484 0l-6.63.633-4.137-.214-2.319-1.4z"/>
+      <path d="M144.258 342.032l2.69-2.7 2.491-.413s1.861 1.034 2.07 1.661c.208.617.412 2.696.412 2.696s2.898 1.243 4.129 1.04c1.25-.214 4.352-1.04 4.973-1.458.62-.413 5.176-2.074 6-2.696.829-.626 5.588-3.939 5.588-3.939l4.968-3.531 7.256-1.661s7.246-.2 7.459.417c.204.622 3.305 1.453 4.963 2.487 1.653 1.045 2.898 1.661 3.315 2.497.407.826 2.065 2.278 2.065 3.318 0 1.034-.407 2.486-.204 3.317.204.83-1.245 2.487-1.86 3.114-.631.621-4.562 2.695-4.77 4.77-.204 2.073.208 3.735.208 3.735s1.866 1.452 3.107.83c1.25-.626 5.593-2.283 7.25-2.492 1.649-.203 4.343-.417 5.38-.621 1.033-.214 3.102-2.487 3.102-2.487s.417-5.193.417-6.018c0-.831-.417-3.318-.208-5.188.208-1.865 2.486-4.148 2.486-4.148s1.444 0 2.065 1.034c.62 1.035.834 3.736 1.037 5.392.204 1.661.834 4.148 2.075 4.566 1.23.418 1.86.214 2.268 1.452.426 1.249 0 3.323-.824 3.527-.824.204-2.482-.413-3.102.835-.62 1.239-1.037 1.239-.834 2.278.214 1.04.214 2.074 1.861 2.905 1.658.835 2.492 2.7 2.899 3.322.426.617 3.528 7.466 3.528 7.466s1.028 3.735 1.028 4.77v3.944c0 1.04 0 9.34.213 9.957.203.622.824 6.635.824 6.635l-6 19.92-2.492 1.238s-3.102.632-3.305 1.249c-.203.622-2.278 3.949-2.278 3.949s.834 2.069 1.658 1.865c.823-.214 1.657.204 1.86.826.204.621-1.037 2.074-.62 2.91.417.825 1.871 1.238 1.871 1.238l5.167-4.352s3.315-2.288 3.732-2.905c.407-.627 4.139-9.132 4.139-9.132s.824-6.43 1.444-7.465c.62-1.04 2.278-3.74 2.278-3.74l2.482-3.313 2.481 2.07s-1.45 5.808-1.653 6.644c-.208.826-1.245 5.804-1.245 6.635 0 .83-1.861 7.058-2.065 7.674-.213.627-4.76 6.844-5.176 7.68-.407.83-3.722 8.918-3.722 8.918l-2.075 8.923s-2.685 7.261-2.685 7.878c0 .627-2.898 6.645-2.898 6.645h-2.898s-2.904-3.944-2.904-4.566c0-.627.417-6.227.417-6.227l-2.07-2.905-2.074-3.939h2.075s.203-.413 1.032 0 3.31-1.865 3.31-1.865l.824-1.248s.213-3.109.417-4.148c.213-1.035.417-5.183.417-5.183l-2.685-2.283-2.492-.627s-1.444.627-2.481.83c-1.032.21-3.936-.203-3.936-.203l-1.86-4.984v-2.696l1.86-2.904s-.62-.83-1.657-.83c-1.032 0-6.62-.622-7.445-.821-.833-.214-5.593-1.667-5.593-1.667l-4.968-1.865-3.101-4.357s-2.69-2.283-3.52-2.283c-.823 0-4.347 3.736-5.379 3.736-1.032 0-5.171-2.075-5.171-3.318 0-1.248 2.278-3.531 3.102-3.531.823 0 .828-2.905.828-2.905l-1.449-4.566-4.347.214s-2.894 0-3.519 1.035c-.62 1.04-.62 4.565-.417 5.391l.209.83-4.551.215-.209-2.91-1.657-7.47s0-2.487-.62-2.696c-.621-.21-3.931-1.86-3.931-1.86s-1.862-4.566-1.653-5.606c.208-1.044-.209-6.849-.209-6.849l-2.898-6.013s-4.342-1.87-4.76-2.487c-.411-.627-1.448-4.984-1.448-4.984l.62-4.565-.62-5.188-2.07-3.317.829-2.9 1.43-1.453z"/>
+      <path d="M321.814 271.472s4.746-2.07 5.365-2.07c.619 0 5.781-5.606 5.781-5.606l7.424-6.854s7.85-2.907 8.484-3.11c.603-.215 7.424-.832 7.424-.832s7.637 1.244 8.255 1.453c.62.2 4.747 3.943 4.747 3.943s5.162 1.453 6.197 2.075c1.034.623 3.509 2.698 3.712 3.739.213 1.035 1.247 3.942.213 4.977-1.035 1.04-4.96 6.436-4.96 7.063 0 .628-1.643 6.85-1.643 6.85s.822 5.4 1.237 6.64c.406 1.25 2.89 3.33 2.89 4.57 0 1.249 1.238 7.062 1.238 7.062l-.831 5.605s-.406 3.116-.406 3.733c0 .628 1.024 4.366 1.024 4.366l3.307 3.738s2.271 7.471 2.271 8.094c0 .622.62 4.156.416 4.982-.203.831-5.578 4.156-6.197 4.57-.618.413-1.856 1.04-3.093 1.04-1.247 0-2.89-.627-3.103-2.076-.203-1.453-.406-3.325-.619-4.36-.203-1.035-.203-2.489-.203-2.489l-1.237-.214-1.856 1.454s1.237.214-1.653.214-6.816.413-6.816.413-4.33 2.075-4.533 3.529c-.213 1.453-6.197 9.134-6.197 9.134s-3.108 4.564-2.906 5.191c.213.618-.202 2.902.213 4.152.421 1.244 5.168 4.564 5.786 4.977.619.418 7.84 2.912 7.84 2.912s5.162 4.152 5.578 4.774c.416.622.203 3.529.203 3.529l1.035 4.778.202 3.32s-2.474 1.872-3.093 2.49c-.619.621-4.746 2.284-4.746 2.284l-7.435 1.867s-5.167.418-5.988 1.453c-.832 1.04-7.222 7.058-7.85 7.895-.619.83-4.128 1.657-4.747 1.866-.618.204-2.474 1.449-2.272 2.494.213 1.035 1.238 2.494 1.866 2.902.62.413 3.713.413 5.153.209 1.45-.21 4.128-.617 4.128-.617l1.45 3.32-1.653 3.32-3.094.418 4.331 6.222s0 3.534-.203 4.36c-.203.832 2.693 4.57 2.693 4.57s5.78-.21 6.602-.622c.822-.414.822-6.018.822-6.018s-4.752-.214-5.989-1.04c-1.237-.832-2.069-2.494-1.638-3.117.4-.622 2.059-2.907 2.875-2.907.837 0 3.514-.83 4.143 0 .609.832 1.228 1.04 1.846 2.076.619 1.04 4.544 2.285 5.375 2.499.822.199 5.365 0 6.603.403 1.237.418 7.637 3.54 8.053 4.574.415 1.036.618 6.232.618 6.232s-1.237 3.734-2.069 3.525c-.821-.204-5.152-.832-5.152-.832s-6.815-2.075-8.053-2.075c-1.237 0-4.96 2.488-5.375 3.738-.406 1.25-3.915 4.987-3.915 4.987s-4.746 2.275-5.38 2.275c-.604 0-5.152-.821-5.152-.821s-1.44-3.325-2.07-2.703c-.618.617-1.034 2.907-1.034 2.907s3.307 2.076 3.722 2.698c.406.622 1.44 3.116 1.44 4.156 0 1.035-5.983 7.262-5.983 7.262s-3.094 2.703-3.094 3.32c0 .628-1.237 3.326-1.45 4.152-.203.836-2.474 5.605-2.474 5.605l-2.688 8.516s1.247 6.232 1.45 6.85c.203.627.203 4.15.203 4.15l-3.093.419-2.07-2.489-1.024-3.534-2.687-3.32s-.832-2.902-.629-3.534c.213-.617 1.044-6.222 1.044-6.222l1.644-2.703-1.238-3.738-2.262-.204-3.924 1.25-.213 3.105 2.272 1.668s.618 1.035.618 1.657c0 .622-.821 3.116-.821 3.116l-1.45 1.454-4.128.617-3.925-1.459-4.128-.408h-5.568l-5.163 1.245s-3.509 1.25-3.924 2.284c-.416 1.036-.822 3.53-.822 3.53l-1.856 1.04-2.282-2.08-4.95-2.908-3.306-2.488-2.261-3.739-4.757-1.866-8.053-4.157-8.042-3.32s-4.128-2.702-4.341-3.32c-.213-.627-2.678-4.57-2.678-4.57s.203-2.284 1.025-2.284c.831 0 2.272-.413 3.103.21.822.621 3.5 1.657 3.5 1.657l2.484-.618 1.034-.418 1.44-1.871v-1.245l-1.643-.204-1.247-2.907-1.44-2.493-3.722-1.25v-3.315s3.093-2.29 3.925-2.29c.821 0 3.509-2.07 3.509-2.07l1.237-1.872s3.094-1.662 3.925-1.662h5.163l5.78 3.116s4.534 3.947 5.163 5.186c.618 1.25 4.95 3.948 4.95 3.948l2.89 3.116 4.96 2.906 2.261.21 1.866-1.454.203-1.25s1.856-.412 2.89-.203c1.035.204 2.89-1.25 2.89-1.25l.832-3.937s-.213-2.086.406-2.086 3.925 1.872 4.128 2.5c.213.621 2.272 1.448 2.272 1.448l1.653-2.907-.213-3.53-2.465-2.075 1.025-3.111h3.306l2.89 2.07 1.44-1.453s0-2.698.832-2.489c.822.21 6.603 2.076 7.434 2.907.822.831 3.094 3.116 4.128 3.325 1.035.21 3.51.826 3.51.826h4.33l-.619-3.942s-1.237-1.662-1.856-1.871c-.618-.21-3.925-2.49-3.925-2.49l-1.856-.83-7.434-.623s-4.746-5.4-5.365-6.227c-.619-.83-2.89-3.947-3.103-4.57-.203-.621-4.33-11.418-4.534-12.045-.203-.617-2.687-6.85-2.687-6.85s-9.088-3.32-9.706-3.11c-.609.204-4.534-1.25-5.568-1.449-1.035-.214-12.8-1.05-14.037-1.254-1.247-.199-3.52-1.244-4.544-2.28-1.034-1.04-2.474-4.156-2.474-4.156l-3.722-4.355-2.89-.419-5.163-6.854 2.688-4.36 3.509-2.28.821-5.191v-6.64l-3.093-3.953-1.653-5.186.416-4.57-1.654-5.814-3.722-4.35-4.949-5.61-4.128-5.605-3.925-2.912-1.643-1.866 2.88-2.28 4.96.617 9.29 2.703 4.33.418 9.29-.632 8.054-6.64s.618-4.774.618-5.4c0-.623.203-3.32.832-3.112.619.204 3.093.418 4.33.418 1.248 0 3.926-.418 4.747-1.662.832-1.25 1.663-3.121 1.663-4.157v-4.569l-1.866-2.907s-5.78-2.698-6.4-2.698c-.618 0-3.924-.617-4.543-.826-.619-.21-4.544-2.08-4.544-2.08l-3.915-4.356-.618-2.285 1.44-1.866 3.306 1.035s2.07 2.076 2.475 2.907c.416.831 1.44 2.285 2.475 2.912 1.034.617 4.959 1.453 4.959 1.453l6.603 1.036h3.306s3.306-.623 3.712 0c.416.617 1.653 1.035 2.069 1.662.415.617 2.059 1.035 2.059 1.035s1.856.21 2.89-.418c1.035-.617 3.52-2.489 3.52-2.489l4.533-.627 1.856 1.872s-1.44 3.116-2.059 3.733c-.619.632-1.237 2.499-1.034 3.121.202.622-.62 2.285-.62 2.285l-3.924-1.663-2.475.413s-.416 1.04-.203 1.867c.203.836 2.475 2.907 2.89 3.738.407.831 2.06 4.151 2.06 4.151l.416 3.326-2.272 3.116s-2.89-1.25-3.51-1.036c-.618.204-5.78-.214-5.568 1.036.203 1.239.203 3.11.822 3.32.619.204 2.678 0 3.712 0h5.781s2.688 2.284 2.89 3.116c.203.826 1.654 3.529 1.654 3.529l5.162 1.866s.831-2.489 1.034-3.116c.203-.622.61-5.604.822-6.227.203-.617 1.44-4.151 1.44-4.151l3.722-1.663 2.475-2.697s-.416-3.739-.822-4.36c-.415-.623-4.127-4.774-3.925-6.228.213-1.453 2.89-6.023 2.89-6.023s1.238-.418 2.07-.209c.821.21 3.093 3.53 3.093 3.53v4.982l-.618 4.778 2.474 3.111s.822 3.744.822 4.57c0 .836 1.247 6.023 1.247 6.645 0 .622-1.247 4.57-1.247 4.57l-3.296.83-.62 4.774s.822 2.698 1.441 2.698c.619 0 4.128 0 4.33.622.214.623.63 2.703.63 2.703h3.924l-.415-7.476 1.237-5.605-.619-3.738-1.866-7.058-.405-4.983s-.213-5.192-.416-5.814c-.203-.627-2.89-8.103-2.89-8.103l-2.678-3.938-6.197-.627s-3.51 1.25-4.95.831c-1.45-.418-2.281-2.907-2.281-2.907l2.069-2.075 3.306.418z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1286 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Lost Potential Tracker</title>
+  <style>
+    html {
+      visibility: hidden;
+      opacity: 0;
+    }
+  </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+  <link rel="alternate" href="https://lostpotential.one.org" hreflang="en" />
+  <link rel="alternate" href="https://lostpotential.one.org/de/" hreflang="de" />
+  <link rel="alternate" href="https://lostpotential.one.org/fr/" hreflang="fr" />
+  <link rel="alternate" href="https://lostpotential.one.org" hreflang="x-default" />
+
+  <link rel="apple-touch-icon" sizes="180x180" href="./dist/favicons/apple-touch-icon.png?1625678166">
+  <link rel="icon" type="image/png" sizes="32x32" href="./dist/favicons/favicon-32x32.png?1625678166">
+  <link rel="icon" type="image/png" sizes="16x16" href="./dist/favicons/favicon-16x16.png?1625678166">
+  <link rel="manifest" href="./dist/favicons/site.webmanifest?1625678166">
+  <link rel="mask-icon" href="./dist/favicons/safari-pinned-tab.svg?1625678166" color="#2e75fe">
+  <link rel="shortcut icon" href="./dist/favicons/favicon.ico?1625678166">
+  <meta name="msapplication-TileColor" content="#081248">
+  <meta name="msapplication-config" content="./dist/favicons/browserconfig.xml?1625678166">
+  <meta name="theme-color" content="#081248">
+
+  <meta property="og:site_name" content="Lost Potential Tracker" />
+  <meta property="og:url" content="https://lostpotential.one.org/" />
+  <meta property="og:image" content="https://lostpotential.one.org/dist/images/lost-potential-social.png" />
+  <meta property="og:title" content="Lost Potential Tracker" />
+  <meta property="og:description" content="Imagine if you couldn't read and understand a simple story at age 10. Where would you be today?" />
+  <meta name="description" content="Imagine if you couldn't read and understand a simple story at age 10. Where would you be today?" />
+  <meta name="twitter:card" content="summary_large_image">
+  </meta>
+
+  <link rel="preload" href="./dist/fonts/colfaxweb/ColfaxWebRegular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="./dist/fonts/colfaxweb/ColfaxWebMedium.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="./dist/fonts/colfaxweb/ColfaxWebLight.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="./dist/fonts/colfaxweb/ColfaxWebBold.woff2" as="font" type="font/woff2" crossorigin>
+  <style>
+    @font-face {
+      font-family: "Colfax";
+      src: url("./dist/fonts/colfaxweb/ColfaxWebRegular.woff2") format("woff2"),
+        url("./dist/fonts/colfaxweb/ColfaxWebRegular.woff") format("woff");
+      font-weight: 400;
+      font-style: normal;
+      font-display: swap;
+    }
+
+    @font-face {
+      font-family: "Colfax";
+      src: url("./dist/fonts/colfaxweb/ColfaxWebMedium.woff2") format("woff2"),
+        url("./dist/fonts/colfaxweb/ColfaxWebMedium.woff") format("woff");
+      font-weight: 500;
+      font-style: normal;
+      font-display: swap;
+    }
+
+    @font-face {
+      font-family: "Colfax";
+      src: url("./dist/fonts/colfaxweb/ColfaxWebLight.woff2") format("woff2"),
+        url("./dist/fonts/colfaxweb/ColfaxWebLight.woff") format("woff");
+      font-weight: 300;
+      font-style: normal;
+      font-display: swap;
+    }
+
+    @font-face {
+      font-family: "Colfax";
+      src: url("./dist/fonts/colfaxweb/ColfaxWebBold.woff2") format("woff2"),
+        url("./dist/fonts/colfaxweb/ColfaxWebBold.woff") format("woff");
+      font-weight: 700;
+      font-style: normal;
+      font-display: swap;
+    }
+
+    @font-face {
+      font-family: "Colfax";
+      src: url("./dist/fonts/colfaxweb/ColfaxWebBlack.woff2") format("woff2"),
+        url("./dist/fonts/colfaxweb/ColfaxWebBlack.woff") format("woff");
+      font-weight: 800;
+      font-style: normal;
+      font-display: swap;
+    }
+  </style>
+  <link rel="stylesheet" href="https://use.typekit.net/znz8pwl.css">
+  <link rel="stylesheet" media="all" href="./dist/styles/app.css?1625678166" />
+</head>
+
+<body data-basepath="./" class="language--en">
+
+  <article class="problem page" id="problem">
+    <ul class="languages">
+      <li>
+        <a href="./">English</a>
+      </li>
+      <li>
+        <a href="./fr/">Français</a>
+      </li>
+      <li>
+        <a href="./de/">Deutsch</a>
+      </li>
+    </ul>
+
+    <header class="problem__header">
+      <div class="problem__header__inner">
+        <h1 class="problem__heading">Lost Potential Tracker</h1>
+        <div class="problem__landing__a heading--h5">Imagine if you had not been able to read and understand a simple story at age 10. Where would you be today?</div>
+        <div class="problem__landing__b" data-date-replacement="Today is {{date}}. The time is {{time}}.">&nbsp;</div>
+      </div>
+    </header>
+
+    <a href="#solution" data-page="solution" class="pageturner__top js-pageturner">
+      <span>Turn the page to help build a brighter future!</span>
+    </a>
+
+    <div class="problem__wrapper">
+
+      <div class="problem__counter">
+        <span class="problem__counter__a">Since 2015,</span>
+        <span class="problem__counter__count">
+          <span class="problem__counter__end">000,000,000</span>
+          <span class="problem__counter__start js-countup">0</span>
+        </span>
+        <span class="problem__counter__b heading--h5">children have not gained basic literacy skills by the age of 10, missing a critical milestone to secure a better future.</span>
+      </div>
+
+      <div class="problem__inner">
+
+        <div class="problem__previews">
+          <span class="problem__preview problem__preview--a">
+            <img src="./dist/images/child-a.png" alt="">
+          </span>
+          <span class="problem__preview problem__preview--b">
+            <img src="./dist/images/child-b.png" alt="">
+          </span>
+          <span class="problem__preview problem__preview--c">
+            <img src="./dist/images/child-c.png" alt="">
+          </span>
+        </div>
+
+        <div class="problem__canvas">
+          <div class="problem__canvas__inner"></div>
+        </div>
+
+        <div class="timeline">
+          <span class="timeline__marker timeline__marker--age">Age</span>
+          <span class="timeline__marker timeline__marker--1">
+            1
+          </span>
+          <span class="timeline__marker timeline__marker--2">
+            2
+          </span>
+          <span class="timeline__marker timeline__marker--3">
+            3
+          </span>
+          <span class="timeline__marker timeline__marker--4">
+            4
+          </span>
+          <span class="timeline__marker timeline__marker--5">
+            5
+          </span>
+          <span class="timeline__marker timeline__marker--6">
+            6
+          </span>
+          <span class="timeline__marker timeline__marker--7">
+            7
+          </span>
+          <span class="timeline__marker timeline__marker--8">
+            8
+          </span>
+          <span class="timeline__marker timeline__marker--9">
+            9
+          </span>
+          <span class="timeline__marker timeline__marker--10">
+            <span>Age</span> 10
+          </span>
+          <span class="timeline__marker timeline__marker--11">
+            11
+          </span>
+          <span class="timeline__marker timeline__marker--12">
+            12
+          </span>
+          <span class="timeline__marker timeline__marker--13">
+            13
+          </span>
+          <span class="timeline__marker timeline__marker--14">
+            14
+          </span>
+          <span class="timeline__marker timeline__marker--15">
+            15
+          </span>
+          <span class="timeline__marker timeline__marker--16">
+            16
+          </span>
+          <span class="timeline__marker timeline__marker--17">
+            17
+          </span>
+          <span class="timeline__marker timeline__marker--18">
+            18
+          </span>
+          <span class="timeline__marker timeline__marker--19">
+            19
+          </span>
+          <span class="timeline__marker timeline__marker--future">Future</span>
+
+          <div class="timeline__books">
+            <span class="timeline__book"></span>
+            <span class="timeline__book"></span>
+            <span class="timeline__book"></span>
+          </div>
+
+          <div class="timeline__factors timeline__factors--secured">
+            <span class="timeline__factor">Access to education</span>
+            <span class="timeline__factor">Good teaching</span>
+            <span class="timeline__factor">Supportive learning environment</span>
+            <span class="timeline__factor">Starting equal</span>
+          </div>
+
+          <div class="timeline__factors timeline__factors--lost">
+            <span class="timeline__factor">Not in school</span>
+            <span class="timeline__factor">No access to early childhood education</span>
+            <span class="timeline__factor">Poor learning environment</span>
+            <span class="timeline__factor">Poor support for teachers</span>
+          </div>
+
+          <div class="timeline__key">
+            <div class="timeline__key__item">
+              <span class="timeline__key__dot -blue"></span>
+              <span>Children under pre-COVID-19 circumstances</span>
+            </div>
+            <div class="timeline__key__item">
+              <span class="timeline__key__dot -orange"></span>
+              <span>Children with lost potential due to COVID-19</span>
+            </div>
+            <div class="timeline__key__text">COVID-19 has affected education everywhere. At the peak of the pandemic, 1.6 billion children were impacted by school closures.</div>
+          </div>
+        </div>
+
+        <div class="quantification">
+          <div class="quantification__period quantification__period--hour js-quantification js-onview" data-period="hour">
+            <figure class="quantification__image">
+              <div class="js-inline-svg" data-svg-global="./dist/images/svg/global/one-hour.svg" data-svg-eu="./dist/images/svg/eu/one-hour.svg" data-svg-af="./dist/images/svg/af/one-hour.svg" data-svg-na="./dist/images/svg/na/one-hour.svg"></div>
+              <figcaption>1 dot represents <strong class="js-number-format" data-number="200"> 200</strong> children</figcaption>
+            </figure>
+            <div class="quantification__inner">
+              <div class="quantification__inner__wrapper">
+                <div class="quantification__a heading--h4">
+                  In just <em>
+                    <span>one hour,</span>
+                    <span class="js-quantification-value"></span>
+                  </em> 10-year-olds will miss a critical milestone to secure a better future.
+                </div>
+                <div class="quantification__b quantification__b--na" data-location="na">
+                  That's enough to fill 15 US public schools.
+                </div>
+                <div class="quantification__b quantification__b--eu" data-location="eu">
+                  That's enough to fill 29 UK primary schools.
+                </div>
+                <div class="quantification__b quantification__b--af" data-location="af">
+                  That's more than the total number of students at the University of Eswatini.
+                </div>
+                <div class="quantification__b quantification__b--global" data-location="global">
+                  That's enough to fill 29 UK primary schools.
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="quantification__period quantification__period--day js-quantification js-onview quantification__period--stories" data-period="day">
+            <figure class="quantification__image">
+              <div class="js-inline-svg" data-svg-global="./dist/images/svg/global/one-day.svg" data-svg-eu="./dist/images/svg/eu/one-day.svg" data-svg-af="./dist/images/svg/af/one-day.svg" data-svg-na="./dist/images/svg/na/one-day.svg"></div>
+              <figcaption>1 dot represents <strong class="js-number-format" data-number="1000"> 1000</strong> children</figcaption>
+            </figure>
+            <div class="quantification__inner">
+              <div class="quantification__inner__wrapper">
+                <div class="quantification__a heading--h4">
+                  In just <em>
+                    <span>one day,</span>
+                    <span class="js-quantification-value"></span>
+                  </em> 10-year-olds will miss a critical milestone to secure a better future.
+                </div>
+                <div class="quantification__b quantification__b--na" data-location="na">
+                  That's more than twice the capacity of The Rose Bowl in Los Angeles.
+                </div>
+                <div class="quantification__b quantification__b--eu" data-location="eu">
+                  That's twice the capacity of Camp Nou Stadium, the largest stadium in Europe.
+                </div>
+                <div class="quantification__b quantification__b--af" data-location="af">
+                  That's more than four times the capacity of the National Stadium in Lagos.
+                </div>
+                <div class="quantification__b quantification__b--global" data-location="global">
+                  That's equivalent to the population of Samoa.
+                </div>
+                <a href="https://go.one.org/2PLrFZg" class="story">
+                  <span class="story__image">
+                    <img src="./dist/images/bubbles-2x/Nankafu-Bahati.png" alt="">
+                  </span>
+                  <span class="story__inner">
+                    <span class="story__title">Read Nankafu's and Bahati's stories from the Democratic Republic of the Congo.</span>
+                    <span class="story__label">Read their story</span>
+                  </span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="quantification__period quantification__period--week js-quantification js-onview quantification__period--stories" data-period="week">
+            <figure class="quantification__image">
+              <div class="js-inline-svg" data-svg-global="./dist/images/svg/global/one-week.svg" data-svg-eu="./dist/images/svg/eu/one-week.svg" data-svg-af="./dist/images/svg/af/one-week.svg" data-svg-na="./dist/images/svg/na/one-week.svg"></div>
+              <figcaption>1 dot represents <strong class="js-number-format" data-number="5000"> 5000</strong> children</figcaption>
+            </figure>
+            <div class="quantification__inner">
+              <div class="quantification__inner__wrapper">
+                <div class="quantification__a heading--h4">
+                  In just <em>
+                    <span>one week,</span>
+                    <span class="js-quantification-value"></span>
+                  </em> 10-year-olds will miss a critical milestone to secure a better future.
+                </div>
+                <div class="quantification__b quantification__b--na" data-location="na">
+                  That's equivalent to 50% of total secondary school enrollment in Canada.
+                </div>
+                <div class="quantification__b quantification__b--eu" data-location="eu">
+                  That's equivalent to the population of Estonia.
+                </div>
+                <div class="quantification__b quantification__b--af" data-location="af">
+                  That's equivalent to the population of Equatorial Guinea.
+                </div>
+                <div class="quantification__b quantification__b--global" data-location="global">
+                  That's equivalent to the population of Trinidad and Tobago.
+                </div>
+                <a href="https://www.globalpartnership.org/results/stories-of-change/nepal-reaching-most-disadvantaged-children-education" class="story">
+                  <span class="story__image">
+                    <img src="./dist/images/bubbles-2x/Barsha.png" alt="">
+                  </span>
+                  <span class="story__inner">
+                    <span class="story__title">Read Barsha's story from Nepal.</span>
+                    <span class="story__label">Read her story</span>
+                  </span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="quantification__period quantification__period--month js-quantification js-onview quantification__period--stories" data-period="month">
+            <figure class="quantification__image">
+              <div class="js-inline-svg" data-svg-global="./dist/images/svg/global/one-month.svg" data-svg-eu="./dist/images/svg/eu/one-month.svg" data-svg-af="./dist/images/svg/af/one-month.svg" data-svg-na="./dist/images/svg/na/one-month.svg"></div>
+              <figcaption>1 dot represents <strong class="js-number-format" data-number="15000"> 15000</strong> children</figcaption>
+            </figure>
+            <div class="quantification__inner">
+              <div class="quantification__inner__wrapper">
+                <div class="quantification__a heading--h4">
+                  In just <em>
+                    <span>one month,</span>
+                    <span class="js-quantification-value"></span>
+                  </em> 10-year-olds will miss a critical milestone to secure a better future.
+                </div>
+                <div class="quantification__b quantification__b--na" data-location="na">
+                  That's nearly half the population of Pennsylvania.
+                </div>
+                <div class="quantification__b quantification__b--eu" data-location="eu">
+                  That's equivalent to the population of Denmark.
+                </div>
+                <div class="quantification__b quantification__b--af" data-location="af">
+                  That's equivalent to the population of Johannesburg.
+                </div>
+                <div class="quantification__b quantification__b--global" data-location="global">
+                  That's equivalent to twice the population of Dubai.
+                </div>
+                <a href="https://go.one.org/3cIKrJu" class="story">
+                  <span class="story__image">
+                    <img src="./dist/images/bubbles-2x/Esther.png" alt="">
+                  </span>
+                  <span class="story__inner">
+                    <span class="story__title">Read Esther's story from Nigeria.</span>
+                    <span class="story__label">Read her story</span>
+                  </span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="quantification__period quantification__period--year js-quantification js-onview" data-period="year">
+            <figure class="quantification__image">
+              <div class="js-inline-svg" data-svg-global="./dist/images/svg/global/one-year.svg" data-svg-eu="./dist/images/svg/eu/one-year.svg" data-svg-af="./dist/images/svg/af/one-year.svg" data-svg-na="./dist/images/svg/na/one-year.svg"></div>
+              <figcaption>1 dot represents <strong class="js-number-format" data-number="100000"> 100000</strong> children</figcaption>
+            </figure>
+            <div class="quantification__inner">
+              <div class="quantification__inner__wrapper">
+                <div class="quantification__a heading--h4">
+                  In just <em>
+                    <span>one year,</span>
+                    <span class="js-quantification-value"></span>
+                  </em> 10-year-olds will miss a critical milestone to secure a better future.
+                </div>
+                <div class="quantification__b quantification__b--na" data-location="na">
+                  That's over half the population of Mexico.
+                </div>
+                <div class="quantification__b quantification__b--eu" data-location="eu">
+                  That's equivalent to the population of France.
+                </div>
+                <div class="quantification__b quantification__b--af" data-location="af">
+                  That's equivalent to the combined population of Kenya and Senegal.
+                </div>
+                <div class="quantification__b quantification__b--global" data-location="global">
+                  That's equivalent to the population of Thailand.
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="problem__total js-onview">
+          <span class="problem__total__a">
+            <span>Between 2015 and</span>
+            <span id="total-year">2030</span>
+          </span>
+          <span class="problem__total__count">
+            <span class="problem__total__end">0,000,000,000</span>
+            <span class="problem__total__start" id="total-count">0</span>
+          </span>
+          <span class="problem__total__b heading--h4">10-year-olds will miss a critical milestone to secure a better future.</span>
+          <div class="problem__total__slider"></div>
+          <div class="slider slider--horizontal">
+            <span class="slider__label slider__label--min">2015</span>
+            <div class="slider__slider js-total-slider" data-min="2015" data-max="2030" data-start="2030" data-count-id="total-count" data-year-id="total-year"></div>
+            <span class="slider__label slider__label--max">2030</span>
+          </div>
+          <a href="#advanced" data-page="advanced" class="problem__advanced__trigger">Click to dive deeper into the data</a>
+        </div>
+
+        <a href="#solution" data-page="solution" class="pageturner__bottom js-pageturner">
+          <div class="pageturner__bottom__a heading--h1">
+            <span>Together we can change the script!</span>
+          </div>
+          <div class="pageturner__bottom__b">
+            <span class="icon-arrow"></span>
+            <span>Turn the page to help build a brighter future for children everywhere.</span>
+          </div>
+        </a>
+      </div>
+    </div>
+    <footer class="footer">
+      <div class="footer__inner">
+        <div class="footer__section">
+          <a href="https://www.one.org" class="one">
+            <img src="./dist/images/svg/one-lpt-3.svg" alt="ONE Lost Potential Tracker">
+          </a>
+          <div class="footer__partnership">
+            <h4>In partnership with</h4>
+            <a href="https://www.globalpartnership.org/">
+              <img src="./dist/images/svg/gpe.svg" alt="">
+            </a>
+          </div>
+          <div class="footer__support">
+            <h4>With support from</h4>
+            <a href="https://www.savethechildren.net/">
+              <img src="./dist/images/svg/stc.svg" alt="Save the Children">
+            </a>
+          </div>
+        </div>
+        <div class="footer__section">
+          <h3>About the Project</h3>
+          <div class="footer__text">The Lost Potential Tracker was created by the ONE Campaign and partners to illustrate the urgency of the global learning crisis and what's at stake. The figures are a result of combining World Bank and UNESCO data on learning poverty with UN population estimates. To develop accurate estimates for the methodology, ONE set up an Advisory Council of stakeholders in the education sector.</div>
+          <a href="https://go.one.org/3dkLDC8" class="footer__link">Explore the methodology</a>
+          <nav class="footer__links">
+            <ul>
+              <li>
+                <a href="https://go.one.org/3ubhFHu">Data and sources</a>
+              </li>
+              <li>
+                <a href="https://www.one.org/privacy">Privacy policy</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </footer>
+  </article>
+  <article class="advanced page" id="advanced">
+    <a href="#problem" data-page="problem" class="advanced__close">
+      <span class="icon-close"></span>
+      <span class="-hidden">Close</span>
+    </a>
+    <header class="advanced__header">
+      <h2 class="advanced__title heading--h3">Explore the data</h2>
+      <div class="advanced__text">These graphs show the number of children who do not acquire basic literacy skills by age 10 (lost potential) and those who do (secured potential) by gender, income group and world region. Slide to change the year and toggle on or off the impact of COVID-19.</div>
+      <div class="slider slider--horizontal">
+        <span class="slider__label slider__label--min">2015</span>
+        <div class="slider__slider js-advanced-slider" data-min="2015" data-max="2030" data-start="2030" data-year-id="advanced-year"></div>
+        <span class="slider__label slider__label--max">2030</span>
+      </div>
+      <div class="advanced__label">See how many children have lost and secured their potential over time</div>
+    </header>
+
+    <div class="advanced__charts">
+      <div class="advanced__charts__heading heading--h4">
+        <span>Showing</span>
+        <span id="advanced-year">2030</span>
+        <span>Data</span>
+      </div>
+
+      <div class="covid">
+        <a class="js-advanced-covid">
+          <span class="covid__toggle">
+            <span class="covid__label covid__label--off">Off</span>
+            <span class="covid__label covid__label--on">On</span>
+          </span>
+          <span>COVID Impact</span>
+        </a>
+      </div>
+
+      <div class="advanced__charts__inner">
+
+        <div class="chart chart--gender">
+          <div class="chart__inner">
+            <div class="chart__kicker">Lost Potential</div>
+            <h3 class="chart__title">Gender</h3>
+            <div class="chart__container">
+              <div class="chart__wrapper">
+                <div class="chart__canvas js-bar-chart" data-y-title="Number of Children" data-facet="gender" data-type="lp" data-max="50000000">
+                  <canvas></canvas>
+                </div>
+                <div class="chart__labels">
+                  <div>
+                    <div>Male</div>
+                    <div>Female</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="chart__legend">
+              <ul>
+                <li>Children with lost potential before COVID-19</li>
+                <li class="-orange">Additional children with lost potential due to COVID-19</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="chart chart--gender">
+          <div class="chart__inner">
+            <div class="chart__kicker">Secured Potential</div>
+            <h3 class="chart__title">Gender</h3>
+            <div class="chart__container">
+              <div class="chart__wrapper">
+                <div class="chart__canvas js-bar-chart" data-y-title="Number of Children" data-facet="gender" data-type="os" data-max="50000000">
+                  <canvas></canvas>
+                </div>
+                <div class="chart__labels">
+                  <div>
+                    <div>Male</div>
+                    <div>Female</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="chart__legend">
+              <ul>
+                <li>Children with secured potential before COVID-19</li>
+                <li class="-border">Children whose potential is no longer secured due to COVID-19</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="chart chart--income">
+          <div class="chart__inner">
+            <div class="chart__kicker">Lost Potential</div>
+            <h3 class="chart__title">Income group</h3>
+            <div class="chart__overflow">
+              <div class="chart__container">
+                <div class="chart__wrapper">
+                  <div class="chart__canvas js-bar-chart" data-y-title="Number of Children" data-facet="income" data-type="lp" data-max="30000000">
+                    <canvas></canvas>
+                  </div>
+                  <div class="chart__labels">
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Low-income</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Lower-middle income</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Upper-middle income</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">High-income</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="chart__legend">
+              <ul>
+                <li>Children with lost potential before COVID-19</li>
+                <li class="-orange">Additional children with lost potential due to COVID-19</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="chart chart--income">
+          <div class="chart__inner">
+            <div class="chart__kicker">Secured Potential</div>
+            <h3 class="chart__title">Income group</h3>
+            <div class="chart__overflow">
+              <div class="chart__container">
+                <div class="chart__wrapper">
+                  <div class="chart__canvas js-bar-chart" data-y-title="Number of Children" data-facet="income" data-type="os" data-max="30000000">
+                    <canvas></canvas>
+                  </div>
+                  <div class="chart__labels">
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Low-income</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Lower-middle income</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Upper-middle income</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">High-income</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="chart__legend">
+              <ul>
+                <li>Children with secured potential before COVID-19</li>
+                <li class="-border">Children whose potential is no longer secured due to COVID-19</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="chart chart--un">
+          <div class="chart__inner">
+            <div class="chart__kicker">Lost Potential</div>
+            <h3 class="chart__title">World region</h3>
+            <div class="region">
+              <a class="region__label js-advanced-region" data-un="1">UN</a>
+              <a class="region__toggle js-advanced-region"></a>
+              <a class="region__label js-advanced-region" data-wb="1">World Bank</a>
+            </div>
+            <div class="chart__overflow">
+              <div class="chart__container">
+                <div class="chart__wrapper">
+                  <div class="chart__canvas js-bar-chart" data-y-title="Number of Children" data-facet="un" data-type="lp" data-max="16000000">
+                    <canvas></canvas>
+                  </div>
+                  <div class="chart__labels">
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">East Asia and Pacific</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Eastern Europe and Central Asia</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Western Europe</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Latin America and Carribean</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Middle East and North Africa</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">North America</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">South Asia</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Eastern and Southern Africa</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Western and Central Africa</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="chart__legend">
+              <ul>
+                <li>Children with lost potential before COVID-19</li>
+                <li class="-orange">Additional children with lost potential due to COVID-19</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="chart chart--un">
+          <div class="chart__inner">
+            <div class="chart__kicker">Secured Potential</div>
+            <h3 class="chart__title">World region</h3>
+            <div class="region">
+              <a class="region__label js-advanced-region" data-un="1">UN</a>
+              <a class="region__toggle js-advanced-region"></a>
+              <a class="region__label js-advanced-region" data-wb="1">World Bank</a>
+            </div>
+            <div class="chart__overflow">
+              <div class="chart__container">
+                <div class="chart__wrapper">
+                  <div class="chart__canvas js-bar-chart" data-y-title="Number of Children" data-facet="un" data-type="os" data-max="16000000">
+                    <canvas></canvas>
+                  </div>
+                  <div class="chart__labels">
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">East Asia and Pacific</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Eastern Europe and Central Asia</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Western Europe</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Latin America and Carribean</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Middle East and North Africa</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">North America</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">South Asia</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Eastern and Southern Africa</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Western and Central Africa</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="chart__legend">
+              <ul>
+                <li>Children with secured potential before COVID-19</li>
+                <li class="-border">Children whose potential is no longer secured due to COVID-19</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="chart chart--wb">
+          <div class="chart__inner">
+            <div class="chart__kicker">Lost Potential</div>
+            <h3 class="chart__title">World region</h3>
+            <div class="region">
+              <a class="region__label js-advanced-region" data-un="1">UN</a>
+              <a class="region__toggle js-advanced-region"></a>
+              <a class="region__label js-advanced-region" data-wb="1">World Bank</a>
+            </div>
+            <div class="chart__overflow">
+              <div class="chart__container">
+                <div class="chart__wrapper">
+                  <div class="chart__canvas js-bar-chart" data-y-title="Number of Children" data-facet="wb" data-type="lp" data-max="16000000">
+                    <canvas></canvas>
+                  </div>
+                  <div class="chart__labels">
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">East Asia and Pacific</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Europe and Central Asia</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Latin America and Carribean</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Middle East and North Africa</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">North America</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">South Asia</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Sub-Saharan Africa</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="chart__legend">
+              <ul>
+                <li>Children with lost potential before COVID-19</li>
+                <li class="-orange">Additional children with lost potential due to COVID-19</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="chart chart--wb">
+          <div class="chart__inner">
+            <div class="chart__kicker">Secured Potential</div>
+            <h3 class="chart__title">World region</h3>
+            <div class="region">
+              <a class="region__label js-advanced-region" data-un="1">UN</a>
+              <a class="region__toggle js-advanced-region"></a>
+              <a class="region__label js-advanced-region" data-wb="1">World Bank</a>
+            </div>
+            <div class="chart__overflow">
+              <div class="chart__container">
+                <div class="chart__wrapper">
+                  <div class="chart__canvas js-bar-chart" data-y-title="Number of Children" data-facet="wb" data-type="os" data-max="16000000">
+                    <canvas></canvas>
+                  </div>
+                  <div class="chart__labels">
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">East Asia and Pacific</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Europe and Central Asia</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Latin America and Carribean</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Middle East and North Africa</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">North America</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">South Asia</div>
+                    </div>
+                    <div>
+                      <div>Male</div>
+                      <div>Female</div>
+                      <div class="chart__label">Sub-Saharan Africa</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="chart__legend">
+              <ul>
+                <li>Children with secured potential before COVID-19</li>
+                <li class="-border">Children whose potential is no longer secured due to COVID-19</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </article>
+  <article class="solution page" id="solution">
+    <ul class="languages">
+      <li>
+        <a href="./">English</a>
+      </li>
+      <li>
+        <a href="./fr/">Français</a>
+      </li>
+      <li>
+        <a href="./de/">Deutsch</a>
+      </li>
+    </ul>
+
+    <h2 class="solution__heading">Lost Potential Tracker</h2>
+
+    <a href="#problem" data-page="problem" class="pageturner__top js-pageturner">
+      <span>Go back to the problem</span>
+    </a>
+
+    <div class="solution__wrapper">
+
+      <header class="solution__header">
+        <h2 class="solution__title heading--h2">How can we get out of this global learning crisis?</h2>
+        <div class="solution__text">Effective funding with a focus on those most at risk is one way out. See the positive effect this can have on a child's future.</div>
+      </header>
+
+      <div class="solution__inner">
+
+        <div class="solution__canvas">
+          <div class="solution__canvas__inner">
+            <!--<canvas id="solution__canvas" resize></canvas>-->
+          </div>
+        </div>
+
+        <div class="timeline">
+          <div class="timeline__books">
+            <span class="timeline__book"></span>
+            <span class="timeline__book"></span>
+            <span class="timeline__book"></span>
+          </div>
+          <div class="timeline__key">
+            <div class="timeline__key__item">
+              <span class="timeline__key__dot -blue"></span>
+              <span>Children under pre-COVID-19 circumstances</span>
+            </div>
+            <div class="timeline__key__item">
+              <span class="timeline__key__dot -green"></span>
+              <span>Children with secured potential due to increased effective, targeted funding</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="funding js-funding">
+          <div class="funding__amount">
+            <span class="js-funding-total">
+              US$0B
+            </span>
+          </div>
+          <div class="funding__text">Step into the shoes of a decision-maker. How much funding would you allocate from today to 2030 to ensure that every 10-year-old can secure a better future?</div>
+          <div class="funding__header">
+            <h3 class="funding__title heading--h6">Funding allocated to income groups</h3>
+            <div class="funding__tooltip">
+              <span class="icon-tooltip"></span>
+              <div class="funding__tooltip__inner">
+                <div>The World Bank classifies the world's economies into four income groups based on the Gross National Income (GNI) per capita. They are:</div>
+                <ul>
+                  <li>High (> US$12,535 GNI/capita, e.g. USA)</h4>
+                  <li>Upper-middle (US$4,046 - US$12,535 GNI / capita, e.g. Brazil)</h4>
+                  <li>Lower-middle (US$1,036 - US$4,045 GNI/capita, e.g. Vietnam</h4>
+                  <li>Low (< US$1,036 GNI/capita e.g. Mali).</h4>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="funding__sliders">
+            <div class="funding__slider">
+              <div class="slider slider--vertical">
+                <div class="slider__slider js-funding-slider" data-amount="funding__amount--low" data-min="0" data-max="35000000000" data-start="0"></div>
+              </div>
+              <div class="funding__slider__amount">
+                <span id="funding__amount--low">
+                  US$0
+                </span>
+              </div>
+              <h4 class="funding__slider__heading">Low-income</h4>
+            </div>
+            <div class="funding__slider">
+              <div class="slider slider--vertical">
+                <div class="slider__slider js-funding-slider" data-amount="funding__amount--lowermiddle" data-min="0" data-max="35000000000" data-start="0"></div>
+              </div>
+              <div class="funding__slider__amount">
+                <span id="funding__amount--lowermiddle">
+                  US$0
+                </span>
+              </div>
+              <h4 class="funding__slider__heading">Lower-middle income</h4>
+            </div>
+            <div class="funding__slider">
+              <div class="slider slider--vertical">
+                <div class="slider__slider js-funding-slider" data-amount="funding__amount--uppermiddle" data-min="0" data-max="35000000000" data-start="0"></div>
+              </div>
+              <div class="funding__slider__amount">
+                <span id="funding__amount--uppermiddle">
+                  US$0
+                </span>
+              </div>
+              <h4 class="funding__slider__heading">Upper-middle income</h4>
+            </div>
+            <div class="funding__slider">
+              <div class="slider slider--vertical">
+                <div class="slider__slider js-funding-slider" data-amount="funding__amount--high" data-min="0" data-max="35000000000" data-start="0"></div>
+              </div>
+              <div class="funding__slider__amount">
+                <span id="funding__amount--high">
+                  US$0
+                </span>
+              </div>
+              <h4 class="funding__slider__heading">High-income</h4>
+            </div>
+          </div>
+
+
+          <div class="funding__counter heading--h5">
+            <span class="funding__counter__a">This amount of funding could help set</span>
+            <span class="funding__counter__count js-funding-secured">0</span>
+            <span class="funding__counter__b">children on the path to acquiring basic literacy skills by age 10, helping secure their futures.</span>
+          </div>
+        </div>
+
+        <div class="stories">
+          <a href="https://go.one.org/39BOA0a" class="story">
+            <span class="story__image">
+              <img src="./dist/images/bubbles-2x/Teresia.png" alt="">
+            </span>
+            <span class="story__inner">
+              <span class="story__title">Read Teresia's story from Kenya.</span>
+              <span class="story__label">Read her story</span>
+            </span>
+          </a>
+          <a href="https://www.savethechildren.net/blog/%E2%80%9C-ability-read-best-feeling-world%E2%80%9D" class="story">
+            <span class="story__image">
+              <img src="./dist/images/bubbles-2x/Mohammed.png" alt="">
+            </span>
+            <span class="story__inner">
+              <span class="story__title">Read Mohammed's story from Yemen.</span>
+              <span class="story__label">Read his story</span>
+            </span>
+          </a>
+          <a href="https://www.globalpartnership.org/results/stories-of-change/mauritania-distance-shouldnt-stand-between-girls-and-their-education" class="story">
+            <span class="story__image">
+              <img src="./dist/images/bubbles-2x/Aichetou.png" alt="">
+            </span>
+            <span class="story__inner">
+              <span class="story__title">Read Aichetou's story from Mauritania.</span>
+              <span class="story__label">Read her story</span>
+            </span>
+          </a>
+        </div>
+
+        <div class="impacts js-onview">
+          <div class="impacts__inner">
+            <h3 class="impacts__title">Which means that in the long-run...</h3>
+            <div class="impact impact--poverty">
+              <img class="impact__image" src="./dist/images/svg/poverty.svg?v=2">
+              <h4 class="heading--h6">
+                <span class="impact__count">
+                  <span class="js-funding-poverty">0</span>
+                </span>
+                <span class="impact__title">people could be lifted out of extreme poverty</span>
+              </h4>
+              <div class="impact__text">Quality education provides children with the skills to increase employment opportunities and income. It is one of the best routes out of extreme poverty.</div>
+            </div>
+            <div class="impact impact--gdp">
+              <img class="impact__image" src="./dist/images/svg/gdp.svg?v=2">
+              <h4 class="heading--h6">
+                <span class="impact__count">
+                  US$<span class="js-funding-gdp">0</span>
+                </span>
+                <span class="impact__title">could be added to global GDP</span>
+              </h4>
+              <div class="impact__text">Quality education leads to better jobs, which help grow local and global economies.</div>
+            </div>
+            <div class="impact impact--revenue">
+              <img class="impact__image" src="./dist/images/svg/revenue.svg?v=2">
+              <h4 class="heading--h6">
+                <span class="impact__count">
+                  US$<span class="js-funding-revenue">0</span>
+                </span>
+                <span class="impact__title">could be added to government revenue</span>
+              </h4>
+              <div class="impact__text">Quality education leads to better jobs, which help increase government revenue through tax collection.</div>
+            </div>
+            <div class="impact impact--lives">
+              <img class="impact__image" src="./dist/images/svg/lives.svg?v=2">
+              <h4 class="heading--h6">
+                <span class="impact__count">
+                  <span class="js-funding-lives">0</span>
+                </span>
+                <span class="impact__title">number of lives could be saved</span>
+              </h4>
+              <div class="impact__text">Quality education means that fewer children die in childbirth and more children are immunized, helping to save lives.</div>
+            </div>
+            <div class="impact impact--marriage">
+              <img class="impact__image" src="./dist/images/svg/marriage.svg?v=2">
+              <h4 class="heading--h6">
+                <span class="impact__count">
+                  <span class="js-funding-marriage">0</span>
+                </span>
+                <span class="impact__title">girls could be prevented from early marriage</span>
+              </h4>
+              <div class="impact__text">Quality education leads to fewer girls being married early and allows them to pursue opportunities.</div>
+            </div>
+            <div class="impact impact--malnutrition">
+              <img class="impact__image" src="./dist/images/svg/malnutrition.svg?v=2">
+              <h4 class="heading--h6">
+                <span class="impact__count">
+                  <span class="js-funding-malnutrition">0</span>
+                </span>
+                <span class="impact__title">future children could be prevented from stunting due to malnutrition</span>
+              </h4>
+              <div class="impact__text">Quality education reduces stunting as educated parents ensure that their children receive more nutritious meals.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="recommendations">
+          <h3 class="recommendations__title heading--h1">But, funding alone is not enough!</h3>
+          <div class="recommendations__text">It must be invested well. Here are some recommendations for how the funding should be spent.</div>
+          <div class="recommendations__inner">
+            <a href="https://go.one.org/31EYlX2" class="recommendation recommendation--school">
+              <span class="recommendation__icon icon-school"></span>
+              <h4 class="recommendation__title">Every child should have access to an education and stay in school</h4>
+              <div class="recommendation__text">Children who are out of school are much less likely to learn.</div>
+              <div class="recommendation__action">Learn more</div>
+            </a>
+            <a href="https://go.one.org/3fEnAkx" class="recommendation recommendation--early">
+              <span class="recommendation__icon icon-early"></span>
+              <h4 class="recommendation__title">Every child should have an equal start</h4>
+              <div class="recommendation__text">Early childhood education helps prepare a child for the rest of their education journey. But many children are unable to access it.</div>
+              <div class="recommendation__action">Learn more</div>
+            </a>
+            <a href="https://go.one.org/3cHr03P" class="recommendation recommendation--resources">
+              <span class="recommendation__icon icon-resources"></span>
+              <h4 class="recommendation__title">Every child should have a supportive learning environment tailored to their needs while in school</h4>
+              <div class="recommendation__text">Children without the right resources in place to meet their needs are less likely to learn.</div>
+              <div class="recommendation__action">Learn more</div>
+            </a>
+            <a href="https://go.one.org/2Phvbe1" class="recommendation recommendation--teachers">
+              <span class="recommendation__icon icon-teachers"></span>
+              <h4 class="recommendation__title">Every child should have good teaching</h4>
+              <div class="recommendation__text">Teachers play one of the biggest roles in a child's education journey. They need to be equipped with the right resources to provide good teaching.</div>
+              <div class="recommendation__action">Learn more</div>
+            </a>
+          </div>
+        </div>
+
+        <div class="cta">
+          <div class="cta__image">
+            <img src="./dist/images/svg/cta.svg">
+          </div>
+          <div class="cta__inner">
+            <h3 class="cta__title">So what can be done?</h3>
+            <ul>
+              <li>
+                <span>Adequately fund education from all sources</span>
+              </li>
+              <li>
+                <span>Ensure that funding is spent effectively with a focus on those most at risk</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="share">
+          <h3 class="share__title">Spread the word and help build a brighter future!</h3>
+          <h4 class="share__heading">Share</h4>
+          <ul class="share__buttons">
+            <li class="share__button share__button--facebook">
+              <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Flostpotential.one.org">
+                <span class="share__button__icon icon-facebook"></span>
+                <span class="share__button__title">Share on Facebook
+              </a>
+            </li>
+            <li class="share__button share__button--twitter">
+              <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.one.org%2Flostpotential&text=The%20%23LostPotentialTracker%20-%20an%20interactive%20tool%20that%20measures%20the%20scale%20of%20the%20global%20learning%20crisis%20via%20%40ONECampaign%20%40GPforEducation%20and%20%40save_children.">
+                <span class="share__button__icon icon-twitter"></span>
+                <span class="share__button__title">Share on Twitter
+              </a>
+            </li>
+            <li class="share__button share__button--linkedin">
+              <a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Flostpotential.one.org&title=">
+                <span class="share__button__icon icon-linkedin"></span>
+                <span class="share__button__title">Share on LinkedIn
+              </a>
+            </li>
+            <li class="share__button share__button--whatsapp">
+              <a href="https://wa.me/?text=The%20%23LostPotentialTracker%20-%20an%20interactive%20tool%20that%20measures%20the%20scale%20of%20the%20global%20learning%20crisis%20via%20%40ONECampaign%20%40GPforEducation%20and%20%40save_children.%20https%3A%2F%2Fwww.one.org%2Flostpotential">
+                <span class="share__button__icon icon-whatsapp"></span>
+                <span class="share__button__title">Share on WhatsApp
+              </a>
+            </li>
+          </ul>
+        </div>
+
+      </div>
+
+    </div>
+    <footer class="footer">
+      <div class="footer__inner">
+        <div class="footer__section">
+          <a href="https://www.one.org" class="one">
+            <img src="./dist/images/svg/one-lpt-3.svg" alt="ONE Lost Potential Tracker">
+          </a>
+          <div class="footer__partnership">
+            <h4>In partnership with</h4>
+            <a href="https://www.globalpartnership.org/">
+              <img src="./dist/images/svg/gpe.svg" alt="">
+            </a>
+          </div>
+          <div class="footer__support">
+            <h4>With support from</h4>
+            <a href="https://www.savethechildren.net/">
+              <img src="./dist/images/svg/stc.svg" alt="Save the Children">
+            </a>
+          </div>
+        </div>
+        <div class="footer__section">
+          <h3>About the Project</h3>
+          <div class="footer__text">The Lost Potential Tracker was created by the ONE Campaign and partners to illustrate the urgency of the global learning crisis and what's at stake. The figures are a result of combining World Bank and UNESCO data on learning poverty with UN population estimates. To develop accurate estimates for the methodology, ONE set up an Advisory Council of stakeholders in the education sector.</div>
+          <a href="https://go.one.org/3dkLDC8" class="footer__link">Explore the methodology</a>
+          <nav class="footer__links">
+            <ul>
+              <li>
+                <a href="https://go.one.org/3ubhFHu">Data and sources</a>
+              </li>
+              <li>
+                <a href="https://www.one.org/privacy">Privacy policy</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </footer>
+  </article>
+  <div class="revealer">
+    <div class="revealer__layer"></div>
+  </div>
+  <script type="text/javascript" src="./dist/scripts/jquery.min.js"></script>
+  <script type="text/javascript" src="./dist/scripts/libs.min.js?1625678166"></script>
+  <script type="text/javascript" src="./dist/scripts/ResizeObserver.min.js?1625678166"></script>
+  <script type="text/javascript" src="./dist/scripts/chart.min.js?1625678166"></script>
+  <script type="text/javascript" src="./dist/scripts/two.min.js?1625678166"></script>
+  <script type="text/javascript" src="./dist/scripts/app.js?1625678166"></script>
+</body>
+
+</html>
